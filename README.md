@@ -4,17 +4,13 @@
 ### Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Demo](#demo)
   * [Learning Objective](#Learning-Objective)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [To Do](#to-do)
   * [Installation](#installation)
   * [Run](#run)
-  * [Bug / Feature Request](#bug-feature-request)
-  * [Team](#team)
-  * [License](#license)
-  * [Credits](#credits)
+
 
 
 ### Overview 
@@ -26,9 +22,6 @@ In this project, the objective is to predict whether the person has Diabetes or 
 ### Motivation
 The motivation was to experiment  with end to end machine learning project and get some idea about deployment platform like [Heroku]() and offcourse this "
 Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not." 
-
-### Demo
-[Visit this link for live demo](https://sarvdiabetes-predictions.herokuapp.com/)
 
 ### Learning Objective
 The following points were the objective of the project (The main intention was to create an end-to-end ML project.)  
